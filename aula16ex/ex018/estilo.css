@@ -16,9 +16,6 @@ section {
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.733);
 }
-select {
-    width: 150px;
-}
 
 footer {
     color: white;
